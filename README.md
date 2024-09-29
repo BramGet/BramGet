@@ -1,6 +1,5 @@
 # About me
 
-- 🔭 I’m currently working on System Engeneering Lab course @HoGent
 - 🌱 I’m currently learning ICT skills 
 
 
